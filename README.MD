@@ -1,5 +1,5 @@
 # patChat
-## a multi-threaded LAN instant messenger 
+## a multi-threaded GUI LAN instant messenger 
    This was my first experience working with
 multi-threaded programming and java network programming in general.
 I'll be tinkering with this project from time to time to experiment
